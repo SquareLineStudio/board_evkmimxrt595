@@ -20,6 +20,6 @@
     "language":"C",
     "ui_export_path":"./ui",
     "url":"https://squareline.io",
-    "short_description": "Short desc",
-    "long_description": "Long desc"
+    "short_description": "MCUXpresso project for NXP i.MX RT595 EVK (392x392, 16 bit, 200 MHz)",
+    "long_description": "The i.MX RT595 EVK features NXP’s advanced implementation of the Arm® Cortex®-M33 core, combined with an advanced GPU called VGLITE."
 }
